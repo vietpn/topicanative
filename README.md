@@ -4,6 +4,7 @@ Note learning english in topicanative.edu.vn
 # THERE IS NO PLACE LIKE HOME
 ## Vocabulary
 Residential (adj) /ˌrezɪˈdenʃl/ : relating to where you ​live or have ​lived
+
 Office block (n) /ˈɔːfɪs/ /blɑːk/
 Chain store (n) /tʃeɪn/ /stɔːr/: many shops
 Inner city (n) /ˈɪnər/ /ˈsɪti/: the ​central ​part of a ​city where ​people ​live 
