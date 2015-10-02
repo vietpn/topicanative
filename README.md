@@ -50,7 +50,7 @@ _ ofcourse, if you have a cooperation or suporting from other member, I think th
 Productivity (n) /ˌproʊdʌkˈtɪvəti/: the rate of working
 Efficiency (n) /ɪˈfɪʃnsi/: good result of working
 Transparent (adj) /trænsˈpærənt/: can ​see through it very ​clearly:
-Job satisfaction (n) /dʒɑːb ˌsætɪsˈfækʃn/: a ​pleasant ​feeling for job
+Job satisfaction (n) /dʒɑːb ˌsætɪsˈfækʃn/: a ​pleasant ​feeling for your working
 Work-life balance (n) /wɜːrk-laɪf ˈbæləns/
 Appreciate (v) /əˈpriːʃieɪt/: to ​recognize how good someone or something is and to ​value him, her, or it:
 
@@ -62,7 +62,7 @@ My boss allways encourage me think outside the box
 ## Grammar
 S + provide + sb + with st
 S + provide + st + for/to + sb 
-My company provide a cumputer for each staff
+My company provide a cumputer for each member
 
 ## Raise Your Voice
 _ I'm software engiger, 
