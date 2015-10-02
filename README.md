@@ -37,13 +37,14 @@ but has some negative: some probleam about air population, water.
 
 # CHARACTERISTICS OF A POSITIVE WORK ENVIRONMENT
 ## What factors contribute to a positive work environment? 
-_ attative salary, environment make you feel comfortable, have chances for improving myself
-_ working with people matters, friendly, professional...
+_ attative salary, environment make you feel comfortable, have a beautiful office
+_ working with people matters, friendly, professional and have chances for improve your knowledge
 
 ## Speak Up
 What do you think about the following quote?
 I believe that working with good people matters because then the work environment is good. If there is a sense of respect and belief among the people you work with, that is when good work is done.
-_ 
+_ arrge with opinion, but it's not all. there are many things make a good enviroment, suchas:  human, work, salary, equipment. Work with gople maters you will learn many things help you improve youself. 
+_ ofcourse, if you have a cooperation or suporting from people, I think the work is done
 
 ## Vocabulary
 Productivity (n) /ˌproʊdʌkˈtɪvəti/: the rate of working
@@ -56,4 +57,23 @@ Appreciate (v) /əˈpriːʃieɪt/: to ​recognize how good someone or something
 ## Wear Your Words
 _Think outside the box (idiom): to think imaginatively using new ideasinstead of traditional or expected ideas
 _ Reap the benefit/reward (idiom): to get something good as a result of your own actions
-_ boss allways encourage staff think outside the box
+My boss allways encourage me think outside the box
+
+## Grammar
+S + provide + sb + with st
+S + provide + st + for/to + sb 
+My company provide a cumputer for each staff
+
+## Raise Your Voice
+_ I'm software engiger, 
+_ I have allway update and use new technology, have to support customer. 
+_ a good salary, sometime you can have bonus, if you support well customer....
+
+How do the managers in your company motivate employees? 
+ofcourse rewards. In my company, we have a award for best worker in month, years. That is money and maybe a trip to travel. you can be uped manager or leader that will have a higher salary and many oppoturnatis
+
+What factors contribute to employees’ job satisfaction? 
+_ that simple, do the things the customer need, keep deadline, schedule,
+_ report cleary.  finish work over customer expectation
+
+
