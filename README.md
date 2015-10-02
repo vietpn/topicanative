@@ -43,8 +43,8 @@ _ working with people matters, friendly, professional and have chances for impro
 ## Speak Up
 What do you think about the following quote?
 I believe that working with good people matters because then the work environment is good. If there is a sense of respect and belief among the people you work with, that is when good work is done.
-_ arrge with opinion, but it's not all. there are many things make a good enviroment, suchas:  human, work, salary, equipment. Work with gople maters you will learn many things help you improve youself. 
-_ ofcourse, if you have a cooperation or suporting from people, I think the work is done
+_ arrge with opinion, there are many things make a good enviroment, suchas:  human, work, salary, equipment. Work with gople maters you will learn many things help you improve youself. 
+_ ofcourse, if you have a cooperation or suporting from other member, I think the work is done
 
 ## Vocabulary
 Productivity (n) /ˌproʊdʌkˈtɪvəti/: the rate of working
