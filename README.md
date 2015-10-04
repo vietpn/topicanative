@@ -82,7 +82,7 @@ When was the last time you traveled?
 _ have traveld thailand for 4 months ago
 What's the most beautiful place you've ever been to?
 _ thailand is a travelled country, there are many place in thailand.
-suchas: night market, temple, palace. Easyer shoping in thailand, allmost procuts cheaper than vietnam
+suchas: night market, temple, . allmost procuts cheaper than vietnam, Easyer shoping in thailand, 
 
 ## Speak Up
 Are you planning on going anywhere for your next vacation?
@@ -96,7 +96,7 @@ _ ìf travel with too many people, maybe you waste too much time for wating peop
 ## Vocabulary
 Accommodation (n) /əˌkɒməˈdeɪʃn/: a ​place to ​live, ​work, ​stay, etc. same hotel
 Companion (n) /kəmˈpæniən/: who travel with you
-Expedition (n) /ˌekspəˈdɪʃn/ = journey
+Expedition (n) /ˌekspəˈdɪʃn/ = special journey
 Touristy (adj) /ˈtʊərɪsti/ : discribe a place is not attractive
 Ecotourism (n) /ˈiːkəʊtʊərɪzəm/ : help people travel in enviroment, 
 Day out (n): the day you can rest
@@ -108,5 +108,14 @@ Travel light: to take very little with you when you go on a trip
 ## STRUCTURES:
 One advantage of/One of the advantages of + N/ V-ing + is ( that )
 One disadvantage of/One of the disadvantages of + N/ V-ing + is ( that )
+
+## Dicus
+disadvantage of package tours
+_ too expensive,
+_ don't worry about transporter, place, planing, hotel
+_ need to keep schedule, follow guide
+advantage of package tours
+_ can be cheated 
+
 
 
