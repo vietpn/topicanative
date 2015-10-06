@@ -34,3 +34,5 @@ S + make + O + adjective
 # raise your voice
 Meditation is an approach to training the mind, which is similar to the way that physical fitness helps train the body.
 
+# note
+Practice: consciousness , 'th' sounds: healTH
