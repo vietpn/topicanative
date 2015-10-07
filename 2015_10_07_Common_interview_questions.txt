@@ -3,6 +3,9 @@ COMMON INTERVIEW QUESTONS
 Do you feel confident during a job interview?
 
 List some reasons why people might fail a job interview.
+_ your answer's wrong for the question
+_ you don't focus on the question
+_ the interview realize you are unsuitable for job
 
 What are some tips to answer interview questions effectively?
 1. listen the question, and make sure you understand
